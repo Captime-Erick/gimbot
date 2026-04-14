@@ -1,0 +1,50 @@
+# Ejercicios por defecto por grupo — vos podés agregar más desde Telegram
+GRUPOS = {
+    "pecho": [
+        "Press banca",
+        "Press inclinado mancuernas",
+        "Aperturas",
+        "Fondos en paralelas",
+        "Press banca mancuernas",
+    ],
+    "espalda": [
+        "Dominadas",
+        "Remo con barra",
+        "Remo en polea",
+        "Curl bíceps barra",
+        "Curl bíceps mancuernas",
+        "Press militar",
+        "Elevaciones laterales",
+        "Face pulls",
+    ],
+    "piernas": [
+        "Sentadilla",
+        "Prensa",
+        "Extensión cuádriceps",
+        "Curl femoral",
+        "Peso muerto",
+        "Hip thrust",
+        "Gemelos",
+    ],
+}
+
+ALIASES = {
+    "pecho": "pecho",
+    "pecho y tricep": "pecho",
+    "pecho y trícep": "pecho",
+    "pecho tricep": "pecho",
+    "tricep": "pecho",
+    "trícep": "pecho",
+    "espalda": "espalda",
+    "espalda bicep": "espalda",
+    "espalda bícep": "espalda",
+    "espalda bicep hombros": "espalda",
+    "espalda y bicep": "espalda",
+    "espalda bícep y hombros": "espalda",
+    "espalda, bicep y hombros": "espalda",
+    "hombros": "espalda",
+    "bicep": "espalda",
+    "bícep": "espalda",
+    "piernas": "piernas",
+    "legs": "piernas",
+}
